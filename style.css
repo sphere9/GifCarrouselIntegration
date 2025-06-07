@@ -20,16 +20,16 @@ body, html {
 #background {
   width: 100%;
   height: 100%;
-  background-image: url("assets/background1.gif");
+  background-image: url("assets/assets/2025-06-05T14-56-58.gif");
   background-size: cover;
   background-position: center;
   animation: backgroundCycle 15s infinite;
 }
 
 @keyframes backgroundCycle {
-  0%   { background-image: url("assets/background1.gif"); }
-  50%  { background-image: url("assets/background2.gif"); }
-  100% { background-image: url("assets/background1.gif"); }
+  0%   { background-image: url("assets/assets/2025-06-05T14-56-58.gif.gif"); }
+  50%  { background-image: url("assets/assets/2025-06-05T14-56-58.gif.gif"); }
+  100% { background-image: url("assets/assets/2025-06-05T14-56-58.gif.gif"); }
 }
 
 #overlay {
